@@ -1,12 +1,12 @@
 //! # ObzenFlow
 //!
-//! Finding zen in the chaos of distributed systems.
+//! High-performance, event-sourced stream processing framework.
 //!
 //! ## Coming Soon
 //!
 //! - Event sourcing with perfect consistency
 //! - Stream processing that never loses data
-//! - Finding beauty in the chaos of production systems
+//! - Built-in monitoring taxonomies
 //!
 //! Visit [obzenflow.dev](https://obzenflow.dev) for more information.
 
