@@ -1,0 +1,18 @@
+[package]
+name = "obzenflow"
+version = "0.0.1"
+edition = "2021"
+authors = ["ObzenFlow Team <dev@obzenflow.dev>"]
+description = "Event streaming framework that finds zen in distributed systems chaos"
+readme = "README.md"
+homepage = "https://obzenflow.dev"
+repository = "https://github.com/obzenflow/obzenflow"
+license = "MIT OR Apache-2.0"
+keywords = ["streaming", "events", "distributed", "event-sourcing", "cqrs"]
+categories = ["asynchronous", "data-structures", "database"]
+
+[dependencies]
+
+[package.metadata.docs.rs]
+all-features = true
+rustdoc-args = ["--cfg", "docsrs"]
